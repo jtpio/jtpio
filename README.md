@@ -2,7 +2,7 @@
 
 I'm a **Scientific Software Engineer** at [QuantStack](https://quantstack.net/) and [Jupyter Distinguished Contributor](https://jupyter.org/).
 
-Core Developer at [@jupyter](https://github.com/jupyter), [@jupyterlab](https://github.com/jupyterlab), [@jupyterlite](https://github.com/jupyterlite), and [@voila-dashboards](https://github.com/voila-dashboards):
+Core Developer [@jupyter](https://github.com/jupyter) [@jupyterlab](https://github.com/jupyterlab) [@jupyterlite](https://github.com/jupyterlite) [@voila-dashboards](https://github.com/voila-dashboards)
 
 <div align="center">
   <table style="margin: 0 auto; border: none; border-collapse: separate; border-spacing: 20px;">
