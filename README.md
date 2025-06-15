@@ -8,7 +8,7 @@ Core Developer at [@jupyter](https://github.com/jupyter), [@jupyterlab](https://
   <table style="margin: 0 auto; border: none; border-collapse: separate; border-spacing: 20px;">
     <tr>
       <td style="text-align: center; vertical-align: top; width: 100px;">
-        <a href="https://github.com/jupyter/jupyter">
+        <a href="https://github.com/jupyter/notebook">
           <img src="https://raw.githubusercontent.com/jupyter/design/refs/heads/main/logos/Logo%20Mark/logomark-orangebody-whitemoons/logomark-orangebody-whitemoons.svg" width="100" height="100" alt="Jupyter"/>
         </a>
       </td>
